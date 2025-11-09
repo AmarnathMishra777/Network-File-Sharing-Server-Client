@@ -27,6 +27,7 @@ Programming Language: Python
 Libraries Used: socket, os
 Platform: Cross-platform (Windows/Linux/Mac)
 Environment: Google Colab / Local Python Environment
+
 Learning Outcomes:
 
 Understanding the fundamentals of socket programming and network communication.
